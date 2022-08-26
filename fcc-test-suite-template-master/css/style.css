@@ -1,0 +1,21 @@
+body {
+    width: 100%;
+    max-height: 100vh;
+    font-family: sans-serif;
+}
+
+#main {
+    width: 100%;
+    height: auto;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+#title-div {
+    text-align: center;
+}
